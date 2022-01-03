@@ -188,7 +188,7 @@ class StoryVideoState extends State<StoryVideo> {
           style: TextStyle(
             color: Colors.white,
           ),
-        ):Center(
+        )):Center(
         child: Text(
           "Hikaye yüklenemedi.",
           style: TextStyle(
